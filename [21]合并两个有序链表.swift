@@ -56,3 +56,5 @@ func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
     head?.next = firstNode ?? secondNode
     return prep.next
 }
+
+mergeTwoLists([1], [])
