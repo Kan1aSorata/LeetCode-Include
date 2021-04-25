@@ -42,6 +42,7 @@
 			isa = PBXGroup;
 			children = (
 				FA36DA3125F5B91F00B6E300 /* LeetCode */,
+				FA36DA3225F5B91F00B6E300 /* main.swift */,
 				FA36DA3025F5B91F00B6E300 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +58,6 @@
 		FA36DA3125F5B91F00B6E300 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
-				FA36DA3225F5B91F00B6E300 /* main.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
